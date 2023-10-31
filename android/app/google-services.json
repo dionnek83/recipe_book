@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859304628552",
+    "project_id": "recipe-book-b2e16",
+    "storage_bucket": "recipe-book-b2e16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859304628552:android:966f933f731b98fa0f237d",
+        "android_client_info": {
+          "package_name": "com.example.recipe_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iott0T1Wh7Xvp4w9SihzY5wf-tezh68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
